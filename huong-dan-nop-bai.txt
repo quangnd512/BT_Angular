@@ -1,0 +1,5 @@
+Hướng dẫn nộp bài tập: 
+Bước 1: Tạo nhánh <Name>-<Division> VD: quangnd-atc
+Bước 2: Tạo 1 Folder với <Name> <Division> VD: QuangND ATC
+Bước 3: Mọi người sẽ nộp bài từng tuần của mình vào trong Folder đã tạo
+Bước 4: push lên github
